@@ -11,5 +11,6 @@
 <p style="margin-left: 80px; text-align: left;">-Max, Output current: 2x 2.5A&nbsp; for short periods, 2x 1.5A sustained.</p>
 <p style="text-align: left;">I did some tests at 100 KHz and it is working well too and, by choosing the right capacitors, a +/- 12V can be achieved without any problems, making it a nice power supply for other old "green radios".</p>
 <p style="text-align: left;">Important thing is that those military radios can be powered from a large range of batteries, from RC LiIon packs to car battery!</p>
+<p style="text-align: left;">IGNORE THE TWO TL494 ON THE SCHEMATIC; THEY ARE THERE TO FACILITATE THE PCB DESIGN WITH THT OR SMD!</p>
 <p style="text-align: left;">Cheers,</p>
 <p style="text-align: left;">yo3hjv</p>
